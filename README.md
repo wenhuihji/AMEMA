@@ -4,7 +4,7 @@ This repository contains the **code** and **appendix** materials for our paper:
 
 **"Adaptive Momentum and EMA-weighted Modeling for Imbalanced Label Distribution Learning"**
 Authors:Yongbiao Gao* , Xiangcheng Sun*, Chao Tan, Chunyu Hu, Guohua Lv  
-*(These authors contributed equally.)*
+(*These authors contributed equally.)
 
 ---
 
@@ -24,7 +24,7 @@ AMEMA/
 │ ├── models/ # Model architectures
 │ ├── utils/ # Helper functions
 │ ├── datasets/ # Data loading scripts
-│ └── appendix.pdf # Full appendix (same as in arXiv)
+│ └── appendix.pdf # Full appendix 
 └── README.md # This file
 
 ---
